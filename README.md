@@ -6,12 +6,17 @@ For this project, you’ll design the tables to hold the data from the CSV files
 
 # Data Modeling
 
-insert ERD of the tables (created using QuickDBDLinks).
+   ![ERD](Images/ERD_Table.png) ERD of the Tables (created using QuickDBDLinks)
 
 
 # Data Engineering and Analysis 
 
 
+
+
 # Bonus
 
 To confirm your hunch, you decide to create a visualization of the data to present to your boss by importing the SQL database into Pandas, creating a histogram to visualize the employee salary ranges that were the most common, and creating a bar chart of average salary by title.
+
+   ![AVG_SAL] Average Salary 
+   ![COMM_SAL] Salary Comparison  
