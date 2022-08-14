@@ -18,5 +18,11 @@ For this project, you’ll design the tables to hold the data from the CSV files
 
 To confirm your hunch, you decide to create a visualization of the data to present to your boss by importing the SQL database into Pandas, creating a histogram to visualize the employee salary ranges that were the most common, and creating a bar chart of average salary by title.
 
+<<<<<<< HEAD
    ![AVG_SAL](Images/Avg_Salary2.png) Average Salary 
    ![COMM_SAL](Images/Comm_Salary2.png) Salary Comparison  
+=======
+   ![AVG_SAL](Images/Avg_Salary.png) 
+   
+   ![COMM_SAL](Images/Comm_Salary.png)  
+>>>>>>> c20deb7c674b2df825ed4fdf6464d1c649b28aef
