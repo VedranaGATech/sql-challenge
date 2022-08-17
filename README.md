@@ -27,9 +27,12 @@ Following was performed: data modeling, data engineering, and data analysis, res
 Following tables were created: Employees, Departments, Departments Employees, Department Managers, Salary, and Titles. 
 Examples: 
 
-   ![EMPL](Images/employees_table.png) Employees Table 
-   ![DPTS](Images/Departments.png) Departments Table 
-   ![TTL](Images/titles.png) Titles Table 
+   ![EMPL](Images/employees_table.png) Employees Table
+   
+   ![DPTS](Images/Departments.png) Departments Table
+   
+   ![TTL](Images/titles.png) Titles Table
+   
    
 # Data Analysis 
 
@@ -38,8 +41,8 @@ Examples of Data Analysis:
    ![EMPL2](Images/employees.png) Employees Table 
    ![MNGRS](Images/managers.png) Managers Table 
    
-After finind the last name frequesncy, we've discovered that all of the last names apprear over 100 times....exept one. 
-Employee located is potentialy a fake employee and should be researched further. 
+After finding the last name frequency, we've discovered that all of the last names appear over 100 times....except one.
+Employee located is potentially a fake employee and should be researched further.  
 
    ![APRL](Images/April.png)
    
